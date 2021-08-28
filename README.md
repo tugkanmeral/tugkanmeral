@@ -6,5 +6,3 @@ Profesyonel hayatımda finans, e-öğrenme, kişisel gelişim gibi bir kaç fark
 Programlama ile ilgili yeni şeyler öğrenmeyi, öğrendiklerimi denemeyi/kullanmayı, başkaları ile paylaşmayı (**[@tugkanmeral.medium.com](https://tugkanmeral.medium.com/)**) seviyorum. 
 
 Programlamayı bir kenara bırakırsak; beni motosiklet sevdalısı, hayvan sever (köpek aşığı), düşünmeden edemeyen, devamlı her şeye neden diye soran, Üsküdarda doğmuş, Kadıköye gönül vermiş bir arkadaş olarak tanımlayabilirsiniz.
-
-<--![Github stats](https://github-readme-stats.vercel.app/api?username=tugkanmeral&show_icons=true&count_private=true)-->
