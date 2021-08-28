@@ -7,4 +7,4 @@ Programlama ile ilgili yeni şeyler öğrenmeyi, öğrendiklerimi denemeyi/kulla
 
 Programlamayı bir kenara bırakırsak; beni motosiklet sevdalısı, hayvan sever (köpek aşığı), düşünmeden edemeyen, devamlı her şeye neden diye soran, Üsküdarda doğmuş, Kadıköye gönül vermiş bir arkadaş olarak tanımlayabilirsiniz.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=tugkanmeral&show_icons=true&count_private=true)
+<--![Github stats](https://github-readme-stats.vercel.app/api?username=tugkanmeral&show_icons=true&count_private=true)-->
